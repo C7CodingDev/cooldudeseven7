@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on html 
-- 🌱 I’m currently learning html js css
+- 🔭 I’m currently working on html and python
+- 🌱 I’m currently learning html js css and python
 - 👯 I’m looking to collaborate on Github and replit
 - 🤔 I’m looking for help with HTML js css and python (Basic pls)
 - 💬 Ask me about HTML!
